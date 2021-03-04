@@ -15,5 +15,6 @@ int main(void)
 {
     srand(time(NULL));
     printf("%s\n", get_sentence(rand()));
+    printf("like tears in rain");
     return (0);
 }
